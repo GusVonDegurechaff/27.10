@@ -59,4 +59,4 @@ while (z > 0)
     if (Console.ReadLine() == "N")
         break;
 }
-Console.WriteLine($"Сумма квадратов последовательности равна = {summa}");
+Console.WriteLine($"Сумма последовательности равна = {summa}");
